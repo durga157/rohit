@@ -7,7 +7,8 @@
   <groupId>in.co.irctc.www</groupId>
   <artifactId>pancard</artifactId>
   <version>1.0-SNAPSHOT</version>
-
+<!--Hello
+   HAI-->
   <name>pancard</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
